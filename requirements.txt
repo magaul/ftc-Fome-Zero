@@ -1,6 +1,12 @@
-panda
-plotly-express
-folium
 streamlit
+plotly
+pandas
+numpy
+folium
+matplotlib
+matplotlib-inline
+haversine
 streamlit-folium
+Pillow
 inflection
+altair
