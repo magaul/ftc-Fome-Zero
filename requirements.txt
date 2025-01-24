@@ -1,0 +1,6 @@
+panda
+plotly-express
+folium
+streamlit
+streamlit-folium
+inflection

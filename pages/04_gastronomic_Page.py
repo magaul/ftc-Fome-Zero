@@ -1,4 +1,3 @@
-pip install streamlit-folium# Bibliotecas
 import folium
 import pandas as pd
 import numpy  as np
