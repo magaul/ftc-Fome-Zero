@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon="📈"
 )
 
-image_path = r"C:\Users\lucca\OneDrive\Documentos\Curso ds\Python_zero_ao_ds\logo.png"
+image_path = "logo.png"
 image = Image.open(image_path )
 st.sidebar.image(image, width=120)
 
